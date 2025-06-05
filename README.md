@@ -63,14 +63,14 @@
     <p><a href="/downloads">Fotos herunterladen</a></p>
   </section>  <section id="about">
     <h2>Über mich</h2>
-    <p>Ich bin Marwin Oehme, leidenschaftlicher Fotograf und selbst Enduro-Fahrer. Meine Mission: deine besten Momente auf dem Bike festhalten!</p>
+    <p>Ich bin Marwin Oehme, leidenschaftlicher Fotograf und selbst Enduro-Fahrer/Quad Fahrer. Meine Mission: deine besten Momente auf dem Bike festhalten!</p>
   </section>  <section id="contact">
     <h2>Kontakt</h2>
     <form>
       <label for="name">Name:</label><br />
       <input type="text" id="name" name="name" /><br /><br />
       <label for="email">Email:</label><br />
-      <input type="email" id="email" name="email" /><br /><br />
+      <input type= marwin.oehme30@web.de id="email" name="email" /><br /><br />
       <label for="message">Nachricht:</label><br />
       <textarea id="message" name="message"></textarea><br /><br />
       <button type="submit">Absenden</button>
@@ -78,7 +78,7 @@
   </section>  <section>
     <h2>Instagram Feed</h2>
     <!-- Instagram Feed Embed Code hier einfügen -->
-    <p>Folge mir auf Instagram: <a href="https://www.instagram.com/deinprofil" style="color:red">@deinprofil</a></p>
+    <p>Folge mir https://www.instagram.com/marwin30112?igsh=dGwwMjkyYmJkb2Q5 fil" style="color:red">@deinprofil</a></p>
   </section>  <footer>
     <p>&copy; 2025 Marwin Oehme Photography | <a href="#" style="color: red;">English</a> / <a href="#" style="color: red;">Deutsch</a></p>
   </footer>
