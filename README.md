@@ -70,7 +70,7 @@
       <label for="name">Name:</label><br />
       <input type="text" id="name" name="name" /><br /><br />
       <label for="email">Email:</label><br />
-      <input type= marwin.oehme30@web.de id="email" name="email" /><br /><br />
+      <input type= "marwin.oehme30@web.de" id="marwin.oehme30@web.de" name="email" /><br /><br />
       <label for="message">Nachricht:</label><br />
       <textarea id="message" name="message"></textarea><br /><br />
       <button type="submit">Absenden</button>
